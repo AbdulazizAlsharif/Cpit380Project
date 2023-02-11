@@ -1768,7 +1768,7 @@ By pressing the "Red Eye Reduction" button, the user can reduce the red eye in t
         }
     } 
     
-## 25- Automatic detection of red eyes:
+## 25- Automatic detection of red eyes (BONUS):
 
 ![image](https://user-images.githubusercontent.com/98660298/218268518-e0c0f75b-a7a4-4e07-a946-24e02f2538b4.png)
 
@@ -2679,7 +2679,7 @@ In this method, the user needs to specify the duration of the video and upload a
         }
     }  
 
-## 45- Compare two Images:
+## 45- Compare two Images (BONUS):
 
 https://user-images.githubusercontent.com/98660298/218275253-2ec847f1-70ed-4999-a7ae-9677722596d8.mp4
 
@@ -2841,7 +2841,7 @@ This method allows users to upload two photos to check for any traffic rule viol
         p2.show();
     } 
 
-## 48- Object Detection:
+## 48- Object Detection (BONUS):
 
 
 ![image](https://user-images.githubusercontent.com/98660298/218275731-de21bebd-a70d-4254-bd62-8cd8bed80f46.png)
