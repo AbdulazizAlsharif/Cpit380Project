@@ -2897,7 +2897,7 @@ One of the most difficult challenges we faced during this project was dealing wi
 
 [3] "RGB to HSV color conversion," RapidTables, https://www.rapidtables.com/convert/color/rgb-to-hsv.html, Accessed: Month Day, Year. 
 
-[4] OpenCV Development Team, "OpenCV library," in OpenCV, Accessed: Month Day, Year. 
+[4] OpenCV Development Team, "OpenCV library," in OpenCV, Accessed: Month Day, Year, https://docs.opencv.org/4.x/. 
 
 [5] B. Ericson, "Sound class," in Duke University, https://www2.cs.duke.edu/courses/spring07/cps001/doc/mediaClasses/Sound.html, Accessed: Month Day, Year. 
 
