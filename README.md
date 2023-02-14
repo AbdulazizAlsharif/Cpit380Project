@@ -1523,6 +1523,10 @@ To apply Box, min and max filters, users must enter an odd number, such as 3, 5,
         jLabel2.setIcon(icon);
     } 
     
+## Laplacian 3*3 
+
+![image](https://user-images.githubusercontent.com/62527536/218648131-10f4158e-44c3-4a32-8084-7900f62072c6.png)
+
 ######  Laplacian Filter code:
 
     private void jButton35ActionPerformed(java.awt.event.ActionEvent evt) {                                          
