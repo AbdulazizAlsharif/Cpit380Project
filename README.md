@@ -8,6 +8,10 @@ The aim of this project is to create an application that enables users to edit p
 - Omar Saeed Al-Zahrani    / 2040569
 - Majed Abdullah Alghamdi   / 1942874
 
+##CPIT380-Project-Community Service
+We have two Community Service
+First this project how we implement it And how to connect GitHub with your NetBeans in link with youtube.
+
 ## Using & Implementing Our Project :
 This YouTube video will guide you on how to download and implement our project. It provides step-by-step instructions to help you get set up and running quickly.
 
@@ -19,6 +23,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSd_4BxOBD0WKhbCigF-rGkjjsyPQ1UEMUC1fCGN
 
 You must dowlonad open CV library and follow the introduction in the youtube video, Open CV download link:
 https://drive.google.com/file/d/1ityQhT3B4su30HZqUwVQ0wZhdy4JdgEz/view?usp=sharing
+
+Secondly, we made an advertisement for the dental clinic.
+
+## dental clinic advertisement.
+![Offer1](https://user-images.githubusercontent.com/62527536/219561433-ad7f2a57-95a2-48fa-b56d-bfcb0a4f58ff.jpeg)
+![Offer2](https://user-images.githubusercontent.com/62527536/219561484-3f3ea60c-4e52-4d95-a910-54f0971adf67.jpeg)
+![Offer3](https://user-images.githubusercontent.com/62527536/219561475-51fa73ed-8d2c-40c3-a7f7-fbfc7fd998c4.jpeg)
+![Offer4](https://user-images.githubusercontent.com/62527536/219561480-51557083-7a3a-4b0d-b5cd-e628d9630ee5.jpeg)
+![Offer5](https://user-images.githubusercontent.com/62527536/219561481-7a0f53a6-3d46-47c3-b995-2e1871b70f39.jpeg)
+
+##the start of our project
 
 ## Main Menu:
 <p align="center">
