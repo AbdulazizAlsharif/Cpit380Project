@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1ityQhT3B4su30HZqUwVQ0wZhdy4JdgEz/view?usp=shari
 
 Secondly, we made an advertisement for the dental clinic.
 
-## dental clinic advertisement.
+## dental clinic advertisement:
 ![Offer1](https://user-images.githubusercontent.com/62527536/219561433-ad7f2a57-95a2-48fa-b56d-bfcb0a4f58ff.jpeg)
 ![Offer2](https://user-images.githubusercontent.com/62527536/219561484-3f3ea60c-4e52-4d95-a910-54f0971adf67.jpeg)
 ![Offer3](https://user-images.githubusercontent.com/62527536/219561475-51fa73ed-8d2c-40c3-a7f7-fbfc7fd998c4.jpeg)
