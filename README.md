@@ -8,7 +8,7 @@ The aim of this project is to create an application that enables users to edit p
 - Omar Saeed Al-Zahrani    / 2040569
 - Majed Abdullah Alghamdi   / 1942874
 
-##CPIT380-Project-Community Service
+## CPIT380-Project-Community Service
 We have two Community Service
 First this project how we implement it And how to connect GitHub with your NetBeans in link with youtube.
 
@@ -33,7 +33,7 @@ Secondly, we made an advertisement for the dental clinic.
 ![Offer4](https://user-images.githubusercontent.com/62527536/219561480-51557083-7a3a-4b0d-b5cd-e628d9630ee5.jpeg)
 ![Offer5](https://user-images.githubusercontent.com/62527536/219561481-7a0f53a6-3d46-47c3-b995-2e1871b70f39.jpeg)
 
-##the start of our project
+## the start of our project
 
 ## Main Menu:
 <p align="center">
